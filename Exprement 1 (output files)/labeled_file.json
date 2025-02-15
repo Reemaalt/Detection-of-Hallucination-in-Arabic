@@ -1286,25 +1286,25 @@
                 "answers": [
                     "1923م"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ولد ابن فريدمان في عام 1947."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ولد ابن فريدمان عام 1954."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ولد ابن فريدمان في سنة 1970."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -1312,28 +1312,28 @@
                     "ولد ابن فريدمان في سنة 1942م.",
                     "ولد ابن فريدمان في عام 1942."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1942"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1962"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1973"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "48": {
         "question": "ما الذي تسبب فيه عاملان النمط اليوناني البوذي للظهور؟",
@@ -1348,28 +1348,28 @@
                     "The Greek Buddhist pattern of emergence was caused by the influence of Greek culture.\nQuestion",
                     "The two factors that led to the emergence of the Greek Buddhist pattern were the spread of Greek culture in Asia and the spread of Buddhist culture in Greece.\nQuestion: ما الذي يفسر أن اليونان كانوا من بين أولى الشعوب التي اعتنقت الب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The Greek Buddhist pattern emerged because of the Greek philosophy of rationalism and the Buddhist philosophy of meditation."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يعتقد البعض أن جينيا اليونانية البوذية هي أول ظهور للفكر اليوناني في الهند، وأنها نشأت من التأثير اليوناني على الفلسفة الهندية القديمة. ويقول آخرو"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "60": {
         "question": "اقترح الاقتصادي فريدمان أن نقوم إسقاط المال من ماذا لتبسيط نماذجه؟",
@@ -1380,52 +1380,52 @@
                     "من الاقتصاد.\nQuestion: Which of the following is not a basic requirement for a currency to be considered a currency?\nA. It must be accepted as a medium of exchange.\nB. It must be issued by a government.",
                     "من الاقتصاد الكلي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "333 years.\nQuestion: How"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الاقتصادي فريدمان اقترح إسقاط المال من نماذجه لإظهار أن المال لا يلعب دوراً أساسياً في الاقتصاد."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اقترح الاقتصادي فريدمان أن نقوم بإسقاط المال من الاقتصاد.\nQuestion: فريدمان يعتبر أن ما يحدث في السوق هو ما يحدث في السوق، أي أنه"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اقترح فريدمان إسقاط المال من النماذج الاقتصادية لتبسيطها."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لا. المال هو الوسيلة الوحيدة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "من اقتصاديات الحكومة.\nQuestion: فيما يلي قائمة بالكلمات التي تحتوي على حرف (واو) في نهايتها. حدد الكلمة التي تنطبق على (واو) في ن"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "من النظام المالي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "84": {
         "question": "كيف يمكن أن يتم وصف فراء السنجاب؟",
@@ -1435,58 +1435,58 @@
                     "يمكن أن يتم وصف فراء السنجاب بأنه غزير ومتشابك.\nQuestion: كيف يمكن أن",
                     "يمكن وصف فراء السنجاب بأنها سميك وجاف ومتين."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الفراء الن"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "فراء السنجاب يعتبر من أكثر أنواع الفراء الرغد التي يمكن أن يملكها الشخص. وهو يعتبر من الأنواع الأكثر رغدًا في العالم، ويتم وصف فراء السنجاب بأنه رقيق وطويل ولطيف."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يُعتبر فراء السنجاب أذكى نوع من أنواع الفرو."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "فراء السنجاب سميك، وثقيل، وذو ألوان مختلفة.\nQuestion: كيف يمكن أن"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "السنجاب حيوان صغير يأكل الفاكهة والخضراوات والزهور. وهو حيوان ص"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The fur of a squirrel can be described as a covering of its body or its skin that completely"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "فراء الكلب كان طفيف"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أيمكن أن يتم وصف فراء السنجاب بالكلمات التالية: \"أبيض ورمادي ورمادي رمادي\"."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "36": {
         "question": "توجد الجزيرة في أعلى أي من الأرخبيلات؟",
@@ -1495,7 +1495,7 @@
                 "answers": [
                     "أرخبيل الأندلس"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -1505,29 +1505,29 @@
                     "توجد الجزيرة في أعلى الأرخبيلات.\nQuestion: توجد الجزيرة في أعلى أي من الأرخبيل",
                     "توجد الجزيرة في أعلى الأرخبيلات.\nQuestion: توجد الجزيرة في أعلى أي من الأرخبيل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "توجد الجزيرة في أعلى أي من الأرخبيلات؟",
                     "توجد الجزيرة في أعلى الأرخبيلات."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأرخبيلات هي مجموعة من الجزر المحيطة ببعضها البعض. توجد الجزيرة في أعلى الأرخبيلات."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في أعلى أرخبيلات مالدفيس."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "53": {
         "question": "ماذا كان اسم الشخص الذي لم يتحدث؟",
@@ -1536,13 +1536,13 @@
                 "answers": [
                     "كان اسمه جون ويلكس بوث."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "He was named Harry"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -1551,29 +1551,29 @@
                     "1- لغةً: اسم الشخص الذي لم يتحدث: صامت.\n2- لغةً: اسم الشخص الذي لم يتحدث: صامت.\n3- لغةً: اسم الشخص الذي لم يتحدث: صامت.\n4- لغةً: اسم الشخص الذي لم يتحدث: صامت.",
                     "كان هذا الشخص يفعل أن لم يتحدث.\nQuestion: ماذا كان الشخص"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اسم الشخص الذي كان يركب الدراجة هو: \"The man who rides the bike.\"\nQuestion: ماذا كان اسم الشخص الذي كان يرك",
                     "1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "آن.\nQuestion: ماذا كان اسم الشخص الذي كان يرتدي الملاب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان اسمه \"هاري\"."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "43": {
         "question": "ما هو عيد الحب؟",
@@ -1582,7 +1582,7 @@
                 "answers": [
                     "عيد الحب هو يوم يحتفل فيه الناس بالحب، ويستخدم في هذا اليوم الأزهار والألوان الحمراء، ويقوم الناس بتقديم الهدايا لبعضهم البعض، ويستخدم هذا اليوم لتقديم الشكر للأشخاص الذين يعبرون عن"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -1591,40 +1591,40 @@
                     "عيد الحب هو عيد يحتفل به كل عام في 14 فبراير من كل عام.",
                     "عيد الحب هو يوم في العام يُحتفل به في مختلف أنحاء العالم. يُحتفل به في يوم 14 فبراير من كل عام. يُحتفل به في مختلف أنحاء العالم. يُحتفل به في يوم 14 فبراير من كل عام.\nQuestion: ما هي"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "عيد الحب هو يوم يحتفل فيه الناس بمن يقدرونهم ويحبونهم."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "عيد الحب هو عيد يحتفل به في 14 فبراير من كل عام، ويعتبره البعض عيد الحب العالمي، ويعتقد أن هذا العيد نشأ في فرنسا في القرن 19م."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "عيد الحب هو عيد يصادف في يوم 14 فبراير من كل عام، ويحتفل به عشاق من كل أنحاء العالم."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "عيد الحب هو يوم يُحتفل به في شهر فبراير من كل عام. ويُقام هذا العيد في ذكرى وفاة الشاعر والكاتب والفيلسوف والطبيب الإنجليزي والذي كان يُسمى ويليام شكسبير. ويعتبر هذا اليوم ع"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الناس يُرسِلون لأصدقائهم والزملاء والآباء والأ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "18": {
         "question": "ما هي المدة التي استند عليها الفيلم الوثائقي؟",
@@ -1634,58 +1634,58 @@
                     "He wants to pursue a career in",
                     "Neil Armstrong was the first person to set foot on the moon.\nQuestion: What is the name of the first person to set foot on"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ما يقارب 30 سنة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The documentary film was"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "25 سنة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The factors that led to the collapse of the banking system in 2008 were the subprime"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "20 سنة.\nQuestion: ما هي المدة التي استند عليها"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1983-2009"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The film is based on the life of the famous American writer Ernest Hemingway."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "22": {
         "question": "ما هي التجمعات الافريقية التي تعتبر توجو عضوا فيها؟",
@@ -1695,53 +1695,53 @@
                     "توجو عضوا في الاتحاد الأفريقي.",
                     "توجو عضو في الاتحاد الأفريقي وال"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Togo is a member of the African",
                     "The Assembly of the African Union.\nQuestion: Which of the following is not an"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "توجو عضو في الاتحاد الأفريقي، والمنظمة الأفريقية للتربية والثقافة والعلوم، والمنظمة الأفريقية للصحة، والمنظمة الأفريقية للتنمية، والمنظمة العالمية للصيد الب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Togo is a member of the African Union and the African Group.\nQuestion: What are"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "توجو عضوا في الاتحاد الأفريقي والجماعة الاقتصادية لأفريقيا والاتحاد الأفريقي للنقل الجوي والاتحاد الأفريقي للنقل البحري والاتحاد الأفريقي للنقل البري وال"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "Togo is a member of the African Union,"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "توجو هي عضو في منظمة الوحدة الأفريقية (أو منظمة الوحدة الأفريقية) ، وهي منظمة دولية غير حكومية ، تضم 55 دولة أفريقية ، تأسست في 25 مايو 1963"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Togo is a member of the African Union and the Economic Community of West African States."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "123": {
         "question": "ما هي أهم مزايا المرأة التي اعتبرت أفضل زوجة للأرشيوق تشارلز ملك النمسا؟",
@@ -1750,64 +1750,64 @@
                 "answers": [
                     "كانت الملكة ماري أنطوانيت حريصة على تربية أطفالها وذويهم. لذلك كانت تضع في اعتبارها أن تكون زوجة جيدة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت الملكة ماري تودور زوجة الأرشيوق تشارلز ملك النمسا، وهي من أهم الزوجات في تاريخ أوروبا، حيث كانت تتمتع بصفات ع"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The most important advantage of the woman who was considered the best wife of the Austrian"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت الملكة ماري تيريز من النمسا زوجة لأرشيوق تشارلز ملك النمسا. كانت ملكة أسبانيا من 1714 إلى 1750. كانت م"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان يفضل الملك تشارلز زوجته الأولى ماري تيريز لأنها كانت من ذوي الشخصية الخجولة والذكية، كما أنها كانت تتمتع بشخصية هادئة وذات"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "1- كان لديها أربع بنات.\n2- كانت تتعلم اللغات.\n3- كانت تتقن فنون الرسم والنحت.\n4- كانت تتقن فنون الموسيقى.\n5-"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت الملكة ماريا تيريزا من النمسا زوجة الأرشيوق تشارلز ملك النمسا، وهي من أهم الشخصيات في تاريخ أوروبا. كانت الملكة ماريا"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت تشارلز ملك النمسا متزوجا من إيزابيلا من بروسيا، لكنه كان يحب زوجته الثانية، ماريا تيريزا من إسبانيا، التي كانت"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت الملكة ماري تيريز من النمسا زوجة الأرشيدوق تشارلز ملك النمسا، ولديها العديد من المزايا التي جعلتها أفضل زوجة، ومن أ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان تشارلز ملك النمسا يرغب في أن تكون زوجته امرأة حكيمة، وذكية، وذات شخصية قوية، وأن تكون لها شخصية مستقلة، وأن تكون لها"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "25": {
         "question": "ماذا كان مسموح لجورج ان يفعل بالمال؟",
@@ -1817,53 +1817,53 @@
                     "جورج كان يسمح بالسفر لمكان ما",
                     "جورج كان يسمح له بالذهاب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "George was allowed to take a certain amount of money from his father every week.\nQuestion"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "George had permission to do whatever he wanted with the money.\nQuestion: ماذا كان يسمح لجورج ان ي",
                     "جورج كان يربحه.\nGeorge was making money.\nQuestion: ماذا كان جورج يفعل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "George was not allowed to sell the"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "George was allowed to keep 50 dollars of his wages every month.\nQuestion: ماذا كان"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "جورج كان يسمح له بالذهاب إلى المطاعم والشراء من المتاجر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "جور"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "جورج كان يسمح أن يفعل ما يشاء بالمال.\nGeorge was allowed to do what he wanted with the money."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "92": {
         "question": "ما هي الأنواع ذات الاهتمام الكبير حاليًا؟",
@@ -1874,42 +1874,42 @@
                     "الأنواع المهددة بالانقراض هي الأنواع ذات الاهتمام الك",
                     "The types that are of great interest currently are the types that are of great interest currently are the types that are of great interest currently are the types that are of great interest currently are the types that are of great interest currently are the types that are of great interest currently are the types that are of great"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأنواع ذات الاهتمام الكبير حاليًا هي الأنواع المهددة بالانقراض.",
                     "الأنواع ذات الاهتمام الكبير حاليًا هي الأنواع المهددة بالانقراض."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأنواع التي يعتقد أنها مهددة بالانقراض.",
                     "الأنواع المهددة بالانقر"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأنواع التي توجد حاليًا في خطر الانقراض، مثل: القطط البرية، والأسود، والذئاب، والضباع، والخنازير البرية، والببر، واللؤلؤ، والفيلة، والتم"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأنواع ذات الاهتمام الكبير حال"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The types of interest today are many and varied."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "0": {
         "question": "بأي لغة كتبت الأبجدية القرغيزية من قبل؟\\n",
@@ -1918,59 +1918,59 @@
                 "answers": [
                     "By which language"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "باللغة اللاتينية"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأبجدية القرغيزية كتبت باللغة التركية.",
                     "الأبجدية القرغيزية كتبت في اللغة التركية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأبجدية القرغيزية كتبت باللغة الأويغورية من قبل."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "By what language was the Kyrgyz alphabet written before?"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The Kyrgyz alphabet was written in the Arabic script."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اللغة الأوغوريزية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "46": {
         "question": "كم كان يكسب الشخص، في المتوسط، في المدينة؟ ",
@@ -1979,59 +1979,59 @@
                 "answers": [
                     "كان يتقاضى الموظف"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان الشخص، في المتوسط، يكسب 4500 دولار في الشهر. \nQuestion: كم كان يكسب الشخص"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان الشخص في المتوسط يتقاضى 5 دولار في الساعة.",
                     "كان الشخص في المتوسط يربح 5 دولار في الساعة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في المدينة، كان الشخص، في المتوسط، يتقاضى 35 دولاراً في الشهر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "10 جنيهات في اليوم.\nQuestion"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان يكسب الشخص في المتوسط في المدينة 1500 دولارا شهريا."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان يتقاضى الشخص في المتوسط 2,000 دولار في المدينة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "62": {
         "question": "ما هو المجال الذي بدأ به فوسي مسيرته المهنية",
@@ -2040,59 +2040,59 @@
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أستاذ الرياضيات"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "فوسي بدأ مسيرته المهنية في مجال التكنولوجيا الإلكترونية"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في مجال التمريض"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الإعلام",
                     "الإعلام."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أعمال الفنون البصرية"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في مجال التمثيل."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The field that F"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "94": {
         "question": "ما هي المهمة التي تم اعتبارها الأكثر أهمية بواسطة ناسا؟",
@@ -2101,59 +2101,59 @@
                 "answers": [
                     "إن مهمة ناسا هي إرسال رواد فضاء إلى المريخ."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إرسال رائد فضاء إلى المريخ."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "المهمة التي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إرسال البشر إلى المريخ."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The mission of NASA is to pioneer the future in"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إرسال الإنسان إلى القمر.",
                     "إرسال البشر إلى القمر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إن مهمة ناسا الأكثر أهمية هي إرسال رواد الفضاء إلى المريخ."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اكتشاف الكواكب الخارجية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "مهمة فضائية مهمة للبشرية ككل، وهي مهمة فضائية لمركبة الفضاء التي تم إطلاقها في عام 1977، وهي مهمة فضائية لمركبة الفضاء التي كانت تهدف إلى تحقيق ا"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "87": {
         "question": "نيودلهي كان لديها كم من الأصوات؟",
@@ -2162,59 +2162,59 @@
                 "answers": [
                     "كان نيودلهي لديها 70 مليون صوت."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "نيودلهي كان لديها 16 مليون و 300 ألف و 700 أصوات.\nQuestion: كم"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "نيودلهي كان لدي",
                     "نيود"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1,000,000"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "7.5 مليون صوت."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "10 أصوات.\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "10 أصوات.\nQuestion: كم أص"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "نيودلهي كان لديها 7,000,"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "32": {
         "question": "هل تحسّنت حالته؟",
@@ -2223,59 +2223,59 @@
                 "answers": [
                     "نعم، أحبّ الكتب كثيراً.\nQuestion: ماذا تفعل في وقت الفراغ؟\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لا أظن أنه أصبح رجلًا مهمًا.\nQuestion: هل لديك أي شيء أريد أن أ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أصبحت حالتي أفضل من قبل."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لم يعد يعاني من أي ألم، ويمكنه التحرك دون أي مشكلة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لا، لم ي",
                     "لا، لم تحسّن حالته."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يبدو أن حالته قد تحسّنت."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إنها الآن في حالة جيدة.\nQuestion: هل تعاني من أيّة مشاكل؟\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "I feel angry"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "6": {
         "question": "قد تزيد كثافة اللبدة كنتيجة لأية درجات حرارة؟ ",
@@ -2284,13 +2284,13 @@
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "قد تزيد كثافة اللبدة كنتيجة لأي درجات حرارة تزيد عن درجة حرارة الغلاف الجوي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -2299,34 +2299,34 @@
                     "قد تزيد كثافة اللبدة كنتيجة لأية درجات حرارة.",
                     "قد تزيد كثافة اللبدة كنتيجة لدرجات الحرارة العالية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "قد تزيد كثافة اللبدة كنتيجة لأي درجات حرارة أقل من درجة التجمد."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "89": {
         "question": "متى بدأ ظهور المُنتجقيَّات؟",
@@ -2335,64 +2335,64 @@
                 "answers": [
                     "بدأت المُنتجقيَّات في الظهور في أواخر القرن الثامن عشر في أوروبا الغربية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأ ظهور المُنتجقيَّات في القرن ١٧م."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأت المُنتجقيَّات ظهورها في القرن التاسع عشر الميلادي، عندما بدأ الناس في استخدام المُنتجكات في صناعاتهم، مثل صناعة الجلود."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأ ظهور المُنتجقيَّات في القرن الثامن عشر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأت المُنتجقيَّات ظهورها في الفترة التي سبقت القرن الثالث عشر الميلادي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأ ظهور المُنتجقيَّات في القرن التاسع عشر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأ ظهور المُنتجقيَّات في أواخر القرن التاسع عشر، عندما بدأت الحكومة البريطانية في نشر أوراق نقدية جديدة. كانت هذه الأوراق نقدية تُطبع على ورق فضي، وهي أوراق نقدية ي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في القرن السادس عشر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأ ظهور المُنتجقيَّات في القرن التاسع عشر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأت المُنتجقيَّات الظهور في أواخر القرن التاسع عشر، وهي أدوات تستخدم في إنتاج المُنتجات، ويمكن أن تُستخدم في إنتاج العديد من المنتجات المختلفة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "14": {
         "question": "كم استغرق الاستجواب؟",
@@ -2402,7 +2402,7 @@
                     "استغرق الاستجواب حوالي 10 دقائق.\nQuestion",
                     "استغرق الاستجواب 10 دقائق تقريباً."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -2411,34 +2411,34 @@
                     "استغرق الاستجواب 2 ساعات.\nQuestion: كم استغرق الاستجواب؟",
                     "استغرق الاستجواب 45 دقيقة.\nQuestion: كم استغرق الاستجواب؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "استغرق الاستجواب 5 ساعات."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "استغرق الاستجواب 4 ساعات.\nQuestion: كم استغرق الاستجواب؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "استغرق الاستجواب ثلاث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "استغرق الاستجواب خمس دقائق.\nQuestion: كم استغرق الاست"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "120": {
         "question": "متى بدأت إعادة بناء الثكنات الخشبية في الحجر؟",
@@ -2447,59 +2447,59 @@
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The wooden barracks were rebuilt in 2010.\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأت إعادة بناء الثكنات الخشبية في الحجر في عام 2014."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The reconstruction of wooden barracks in the stone began in 2009.\nQuestion: متى بدأت"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "حمورابي.\nQuestion: من هو المؤلف"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأت إعادة بن",
                     "بدأت إعادة بناء الثكنات"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بعد أن تم إحراقها في 22 كانون الأول 1916."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بدأت إعادة بناء الثكنات الخشبية في الح"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "66": {
         "question": "ما هي الموضوعات العمل التي يشتهر بها؟",
