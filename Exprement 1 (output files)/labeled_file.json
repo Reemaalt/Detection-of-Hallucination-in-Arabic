@@ -6,59 +6,59 @@
                 "answers": [
                     "The Roman legal"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بأي نظام عالمي تأثر النظام القضائي الروماني في الغالب؟ \nأجاب على السؤال التالي بجملة واحدة موجزة ولكن كاملة باللغة العربية.\nQuestion: بأي نظام عالمي تأثر النظام القضائي الرو"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "النظام القضائي الروماني تأثر في الغالب بنظام القانون الروماني."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في الغالب تأثر النظام القضائي الروماني في نظام عالمي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "النظام القضائي الروماني تأثر في الغالب بالنظام القضائي اليوناني.",
                     "في الغالب تأثر النظام القضائي الروماني في الغالب بالنظام القضائي اليوناني."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "To provide details and examples"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "بأي نظام عالمي تأثر النظام القضائي الروماني في الغالب هو نظام القانون الروماني."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Synovial joint.\nQuestion: What is"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "23": {
         "question": "ما اسم الأبن الأكبر لجورج الثالث؟",
@@ -67,7 +67,7 @@
                 "answers": [
                     "جرجس"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -78,28 +78,28 @@
                     "جورج الرابع.",
                     "جورج الرابع."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "أليكس.\nQuestion: ما اسم الملكة فيكتوريا أم الملكة إليزابيث الثانية؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "George"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "77": {
         "question": "ما هي أسباب افتقار التصبغ؟",
@@ -108,64 +108,64 @@
                 "answers": [
                     "أسباب افتقار التصبغ هي: سوء التغذية، الإصابة بالأنيميا، الإصابة بمرض الكبد، الإصابة بمرض الكلى، الإصابة بمرض الغدة الدرقية، الإصابة بمرض السك"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يحدث الافتقار التصبغي بسبب نقص في حمض الفوليك (فيتامين ب9) في الجسم."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أسباب افتقار التصبغ هي: نقص في الغذاء، نقص في الأيض، نقص في التغذية، نقص في الأكسجين، نقص في الكربوهيدرات، نقص في البروتين، نقص في الحديد،"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "افتقار التصبغ ناتج عن نقص في مادة ما في الغذاء أو في الجسم."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The causes of alopecia areata are unknown."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يحدث التصبغ بسبب وجود الكثير من الأكسجين في الجسم، ولذلك فإن الأكسجين يتفاعل مع الهيموجلوبين في الدم ليتحول إلى مادة كيميائية تسمى ميتامايكوبلومين. ويتسبب هذا"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يحدث التصبغ عند حدوث تغيرات في خلايا الجلد التي تعمل على إنتاج الكولاجين والليكينين. ويعتبر التصبغ أحد علامات الشيخوخة. ويتسبب في تغيرات في مظهر الجلد مثل تغ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "توجد عدة أسباب لافتقار التصبغ، منها:\n1. عدم وجود مادة التصبغ في الجلد، فمثلًا، عند الأطفال حديثي الولادة، لا توجد مادة التصبغ في الجلد، لذلك، عند الأطفال"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أسباب افتقار التصبغ عديدة منها:\n1. عدم وجود الأكسجين في الجلد.\n2. عدم وجود مادة التصبغ في الجلد.\n3. عدم وجود قوة التصبغ في الجلد.\n4. عدم وجود قوة التصب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يحدث التصبغ بسبب وجود خلايا متخصصة في الجلد تسمى الخلايا الميلانينية. وهي خلايا ذات قشرة خضراء. هذه الخلايا تنتج الكروموجين، وهو مادة كيميائية تمنع الخلايا من"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "5": {
         "question": "ما هي درجات الرمادي في فراء الأسود؟",
@@ -176,52 +176,52 @@
                     "The shades of gray in the black",
                     "The gray shades in the black fur range from white to black.\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "درجات الرمادي في فراء الأسود هي: الأسود، الرمادي، البياض، و الأبيض."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الرمادي.\nQuestion: ما هي درجة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "درجات الرمادي في فراء الأسود هي: الرمادي الفاتح، الرمادي الداكن، الرمادي الأبيض، الرمادي الأسود، الرمادي الأزرق، الرمادي الأصفر، الرمادي الأخضر، الرمادي الأصفر، الرمادي الأحمر، الرمادي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأسود لدي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الدرجات الرمادية في فراء الأسود هي: الرمادي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "درجات الرمادي في فراء الأسود: رمادي داكن، رمادي فاتح، رمادي فضي، رمادي أبيض"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "7"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "151": {
         "question": "ما هو الشيء الذي قام بيتشاي بدراسته؟",
@@ -230,13 +230,13 @@
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أخرج بيتشاي إلى النهر وسبح وراء الشاب.\nQuestion: ماذا قام بيتشاي ب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -244,40 +244,40 @@
                     "علم الفلك.",
                     "كان بيتشاي يعمل في مجال علم الفلك."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Wisdom."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان بيتشاي يدرس كتاب التوراة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان بيت"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اختار بيتشاي أن يكون محامي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "(بيتشاي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "155": {
         "question": "متى حُكم عليه؟",
@@ -286,64 +286,64 @@
                 "answers": [
                     "في 20 سبتمبر 1988م."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في 12 مايو 2018."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في 25 مايو 2011."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "26/11/2010"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في 12 مايو 2008."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في 15 يناير 2019."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في ١٧ مايو ١٩٢٥."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أُخذ إلى مكة المكرمة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في 10 مايو 2011."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "148": {
         "question": "ما هو الكائن الذي يعمل الغلاف الفيروسي على مساعدته لدخول الخلية الثانوية؟",
@@ -355,36 +355,36 @@
                     "الفيروسات.",
                     "الفيروسات"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "1. الفيروسات هي الكائنات الحية الدقيقة التي تسبب المرض. 2. الفيروسات تثبت على سطح الخلية. 3. الفيروسات تثبت على"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "يعتبر الفيروسات كائنات حية لأنها تملك جينات، وتستطيع تكرار نفسها، وتستطيع أن تنتقل من جسم إلى آخر. وهي تتم"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "1. الفيروسات\n2. البكتيريا\n3. الفطريات\n4. البروتوزوا\n5. الحيوانات\n6. النباتات\n7. البكتيريا وال",
                     "1. فيروسات\n2. بكتيريا\n3. فطريات\n4. حشرات\n5. نباتات\n6. حيوانات\n7. نباتات وحيوانات"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الفيروسات هي كائنات حية صغيرة تتكون من جزيئات DNA أو RNA محاطة بغلاف. الفيروسات تنتقل من كائن إلى آخر عن طريق الاصط",
                     "الفيروسات هي كائنات حية صغيرة تنتقل من خلية إلى أخرى. تنتقل الفيروسات من خلية إلى أخرى عن طريق الغلاف الفيروسي. الغلاف الفيرو"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "111": {
         "question": "في التناظر، ما هي النسبية الخاصة للحركات؟",
@@ -394,48 +394,48 @@
                     "في التناظر، النسبية الخاصة للحركات هي أن سرعة الموجودة في إطار مرجعي متحرك تساوي سرعة الموجودة في إطار مرجعي ثابت مضروبة في حاصل ضرب 1 / (1 - (v² / c",
                     "النسبية الخاصة للحركات هي أن سرعة حركة جسم فيما يتعلق بمراقب ثابتة هي مساوية لسرعة حركة الجسم فيما يتعلق بمراقب آخر متحرك بسرعة متساوية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في التناظر، النسبية الخاصة للحركات هي أن سرعة حركة أي جسم تتغير بالنسبة لجسم آخر في حالة حركتها في اتجاه واحد."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في التناظر، النسبية الخاصة للحركات هي أن كل حركة في فضاء واحد يمكن أن تكون حركة ثابتة في فضاء آخر."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في التناظر، النسبية الخاصة للحركات هي أن سرعة حركة الجسم بالنسبة للجسم الثاني تساوي سرعة حركة الجسم الثاني بالنسبة للجسم الأول."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في التناظر، النسبية الخاصة للحركات هي أن سرعة أي جسم مقارنة بالسرعة المطلقة للنظام المرجعي لا تختلف عن سرعة جسم آخر مقارنة بالسرعة المطلقة للنظام المرجعي.",
                     "في التناظر، النسبية الخاصة للحركات هي أن سرعة حركة الأجسام بالنسبة إلى المراقب لا تتغير مع سرعة الحركة بالنسبة إلى المرجع."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في التناظر، النسبية الخاصة للحركات هي أن سرعة أي جسم تتغير مع تغير مرجع النظام المرجعي، حيث يكون سرعة أي جسم بالنسبة لمرجع النظام المرجعي ثابتة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "In the rel",
                     "In relativity, the special relativity of motion is that the speed of objects in the same reference frame is"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "147": {
         "question": "في أية مدينة أجري حفل تقديم الجوائز الأكاديمية الـ 82؟",
@@ -447,7 +447,7 @@
                     "في مدينة لوس أنجلوس.\nQuestion: في أية مدينة أجري حف",
                     "مدينة لوس أنجلوس.\nQuestion: في أية مدينة أجري حفل تق"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -456,22 +456,22 @@
                     "مدينة لوس أنجلوس.",
                     "في مدينة لوس أنجلوس"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "من مؤسس شركة مترو غولدوين ماير، د. لويس ب. ماير"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الممثل الأمريكي جريجوري بيرك"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "140": {
         "question": "ما الذي يعد مثالاً لمحاولة تحديد العلاقة بين المسافات المدارية؟",
@@ -482,7 +482,7 @@
                     "The Moon's orbit around the Earth.\nQuestion: ما الذي يعد مث",
                     "The Earth’s orbit around the Sun.\nQuestion: ما الذي يعد مث"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -493,16 +493,16 @@
                     "The relation between the distances of the planets from the Sun is an example of an",
                     "The difference between the orbits of Mercury and Venus is an example of the attempt to determine the relation between orbital distances."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "103": {
         "question": "ما هي نسبة الميكروبات في تشكيل جسم الإنسان؟",
@@ -511,7 +511,7 @@
                 "answers": [
                     "يبلغ عدد الخلايا الميكروبية في جسم الإنسان 10 لتر من المياه بحوالي 100 تريليون خلية في جسم الإنسان. ويعتبر هذا العدد من الخلايا الميكروبية أكبر من العدد الكلي للخ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -523,22 +523,22 @@
                     "10%",
                     "10%"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يوجد في جسم الإنسان 10 تريليونات خلية، ويوجد في كل خلية 10 ميكروبات، فيكون عدد الميكروبات في جسم الإنسان 10 ميكروبات.\nQuestion: What is the percentage of microbes in the formation of"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تُشكّل الميكروبات 10% من جسم الإنسان."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "159": {
         "question": "ما خه جنسية لي ؟",
@@ -547,59 +547,59 @@
                 "answers": [
                     "My name is"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أنا من جنسية (العراق)"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أنا",
                     "أنا"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أريد أن أكون أمريكية"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "My name is _______ and my"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أنا أمريكي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أنا من أهل المحيط الأطلسى."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أنا أمريكي من أصل أفريقي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "انا اسمي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "39": {
         "question": "مع من يتعاون شيلباك عادة؟",
@@ -611,41 +611,41 @@
                     "مع أصدقائه.",
                     "مع أصدقائه."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "مع عائلة السيد والسيده المخدوعين."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "مع شيلباك يتع"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يذهب إلى المنزل.\nQuestion: ماذا"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "مع أصدقائه.\nQuestion: مع من يتعاون شيلباك عادة",
                     "مع أصدقائه.\nQuestion: مع من يتعاون شيلباك عادة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Shilbak cooperates with people who live in the mountains"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "76": {
         "question": "ما هي العملية التي تحفزها؟",
@@ -655,13 +655,13 @@
                     "التخاطب.\nAnswer",
                     "التفاعل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تنشيط الخلية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -669,34 +669,34 @@
                     "",
                     "التمثيل الغذائي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The process that is stimulated."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تثبيط التأثيرات السامة للنيتروجين"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "التكاثر.\nQuestion: ما هي العملية التي تح"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تحفزها عملية إعادة تنشيط."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "20": {
         "question": " متى تم توقيع الأوراق؟",
@@ -708,46 +708,46 @@
                     "تم توقيع الأوراق في",
                     "تم توقيع الأ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تم توقيع الأوراق في 5 نوفمبر 2015."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تم توقيع الأوراق في يوم الث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تم توقيع الأوراق في 23 سبتمبر 1922."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تم توقيع الأوراق في 10 أغسطس 2017."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تم توقيع الأوراق في ١٧ سبتمبر ١٩٧٨.\nQuestion:  متى تم توقيع الأوراق"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تم توقيع الأوراق في يوم 16 من شهر أغسطس من عام 1787."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "71": {
         "question": "من الذي كان عضوًا في ديف ليبارد؟",
@@ -758,47 +758,47 @@
                     "ديف ليبارد كان عضوًا في ديف ليبارد.\nQuestion: من الذي كان عضوًا في ديف ليب",
                     "ديف ليبارد was a member of ديف ل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1. Steve Clark\n2. Joe Elliott\n3. Rick Savage\n4. Rick Allen\n5. Phil Collen\n6. Ian Hunter\n7. Mutt Lange\n8. Pete Willis\n9. Robbo\n10. John Sykes\n11. Rick Allen\n12. Rick Savage",
                     "1. Phil Collen 2. Rick Savage 3. Joe Elliott 4. Rick Allen 5. Robbo 6. Steve Clark 7. Rick Allen 8. Rick Allen 9. Rick Allen 10. Rick Allen 11. Rick Allen 12. Rick Allen 13"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "كلا من جيف ريتشاردز و فليب كولينز و ريك ألين و ماتي ستوارت و ريك سافاج."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "كريستوفر جونز"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "من الذي كان عضوًا في د"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "(ديف ليبارد) هو مغني وموسيقي إنجليزي، ولد في 9 أغسطس 1959. وهو عضو في فرقة ديف ليبارد منذ تأسيسها عام 1977. أطلق الفرقة أول ألبوم لها في عام 1975."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Richard Dawkins.\nQuestion: Who was the first person"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "69": {
         "question": "من هو صهربينانغ كياوهتين ناورهتا؟",
@@ -807,54 +807,54 @@
                 "answers": [
                     "صهربينانغ كياوهتين ناورهتا هو رئيس وزراء ماليزيا الحالي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The 2014 Asian Games"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أستاذ الفيزياء والرياضيات في جامعة سيلان في كولمبو."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "صهربينانغ كياوهتين ناورهتا هو الرئيس السابق لسنغافورة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "هو الكاتب الشهير والروائي الماليزي الذي ولد في 19 يوليو 1946 في مدينة بوكيت ميرتاجام، وهو من أصل صيني. حصل على درجة البكالوريوس في الأدب الإنجليزي من جامعة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Malaysia.\nQuestion: Who is the current Prime Minister of Malaysia?",
                     "He is the son of the father of the mother of the son of the mother of the father of the mother of the son of the mother of the father of the mother of the son of the mother of the father of the mother of the son of the mother of the father of the mother"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "صهربينانغ كياوهتين ناورهتا هو الرئيس السابق لجمهورية إندونيسيا.",
                     "صهربينانغ كياوهتين ناورهتا هو الرئيس السابق لجمهورية إندونيسيا."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Soeharto is"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "10": {
         "question": "أين تقع هجمات الأسود في تنزانيا؟",
@@ -863,49 +863,49 @@
                 "answers": [
                     "تقع هجمات الأسود في تنزانيا في غابة سيرينجيتي."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "تقع هجمات الأسود في تنزانيا في مجمع نهر سيرينجيتي."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "It took the people 20 years to build the pyramids.\nQuestion: What is the name of the country where"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تقع هجمات الأسود في تنزانيا في شرق إفريقيا.\nQuestion: أين تقع ه"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Tanzania has 45,000,000 people.\nQuestion: What is the currency"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يتكلم سكان منطقة سيرينجيتي اللغة السواحيلية.\nQuestion: ما هي اللغة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The black rhino attacks take place in the Serengeti National Park in Tanzania.\nQuestion"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -917,10 +917,10 @@
                 "answers": [
                     "تقع هجم"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "44": {
         "question": "ما هو اسم العطلة اليابانية حيث يتبادل بها العمال الشوكولاته؟",
@@ -929,49 +929,49 @@
                 "answers": [
                     "“Halloween”"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "سيكو",
                     "(العطلة اليابانية) (منتصف الشتاء) (الجائزة) (الجائزة) (الجائزة) (الجائزة) (الجائزة) (الجائزة) (ال"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "5. يوم الشوكولاته\nAnswer",
                     "5. يوم شوكولاتة\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "(لغة) الإنجليزية.\nQuestion: ما هو اسم كلمة في اللغة اليابانية التي تع"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ھي عطلة تسمى ھي ھوننغاكو ، ھي عطلة يابانية ھو يتبادل فيها العمال الشوكولاته وھي عطلة يابانية ھو",
                     "White Day.\nQuestion: ما هي العطلة اليابانية حيث يتبادل بها العمال الشوكولاته؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "\"The Day of Giving Thanks\" is a Japanese holiday where workers exchange chocolate."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "146": {
         "question": "ما الذي تسبب في هلاك رئتي الدكتور ماردون؟",
@@ -981,58 +981,58 @@
                     "(د) تعرض",
                     "1. حقيقة أن الدكتور ماردون كان يعاني من مرض السكري. 2. حقيقة أن الدكتور ماردون كان يعاني من مرض السكري. 3. حقيقة أن الدكتور ماردون كان يعاني من مرض"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "انه أصيب بمرض السل."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تسبب في هلاك رئتي الدكتور ماردون الإص"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The doctor's lungs were destroyed by the smoke from the fire.\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The doctor's lungs were destroyed"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "What makes you think of not staying in the job.\nQuestion: ما الذي يجعلك تفكر في عدم بقاءك في العمل؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في حادث تحطم طائرة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ما تسبب في هلاك رئتي الدكتور ماردون هو أن أجهزة التنفس الصناعي التي كان يستخدمها كانت غير كافية لتنظيم ضربات قلبه، فكانت ضربات قلبه تزيد عن 200 ضربة في"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "السبب الرئيسي الذي تسبب في هلاك رئتي الدكتور ماردون هو أن الدكتور ماردون كان يزعم أنه يمتلك حجراً نادراً في حديقة فيتامين C، وبالفعل كان يمت"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "110": {
         "question": "مالذى يسبب سقوط الأشياء ؟",
@@ -1041,7 +1041,7 @@
                 "answers": [
                     "الرياح."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -1050,40 +1050,40 @@
                     "الجاذبية",
                     "قوة الجاذبية"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "Gravity is the force of attraction between any two bodies in the universe. The force of gravity is very weak"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "The force is called gravity.\nQuestion: What is the name of the force that pulls objects down toward the earth?\nAnswer"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "السقوط هو نتيجة لكون كتلة الأشياء كبيرة جداً بالنسبة لكتلة الأرض."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "\"هيا اتركي المكان\""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الوزن"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "55": {
         "question": "ما هو الدور التي قامت به مارغريت تاتشر في الحكومة البريطانية؟",
@@ -1093,53 +1093,53 @@
                     "Margaret Thatcher was the first",
                     "The word for the person who owns a company or a farm or a factory is owner"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Margaret Thatcher was the first woman to become prime minister of the United Kingdom. She was the leader of the Conservative Party from 1975 to 1990 and prime minister from 1979 to 1990. She was known as the \"Iron Lady\" because"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "كانت مارغريت تاتشر أول امرأة تشغل منصب رئيس الوزراء في المملكة المتحدة. وتم تعيينها في هذا المنصب في عام 1979. وتم تعيينها في هذا المنصب في عام 1979."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "Margaret Thatcher was a British Prime Minister who served from 1979 to 1990. She was the first woman to hold the position and is widely regarded as one of the most influential leaders of the 20th century. Thatcher is known for her strong leadership,"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "Gabriel Garcia Marquez wrote in Spanish.\nQuestion: ما هي اللغة التي كتب بها نيل ساي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Margaret Thatcher is the first woman to hold the position of Prime Minister",
                     "Margaret Thatcher was the first female Prime Minister of Britain."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "مارغريت تاتشر كانت أول سيدة بريطانية تشغل منصب رئيس الوزراء في بريطانيا في عام 1979. وتميزت خلال فترة رئاستها بالسياسة الصارمة في التعامل مع الع"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "John Kennedy was the first American president to visit the Soviet Union.\nQuestion: ما هي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "1": {
         "question": "بأي لغة يتم تقديم الترجمة؟",
@@ -1148,14 +1148,14 @@
                 "answers": [
                     "اللغة العربية.\nQuestion: ما هي اللغة التي يتحدث بها البالغون في بلادك؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "العربية\nQuestion: ما هي ل",
                     "يتقن المترجم اللغة العربية.\nQuestion: ما هي اللغة التي يتقنها المترجم؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -1163,34 +1163,34 @@
                     "باللغة العربية.",
                     "باللغة العربية.\nQuestion:"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الترجمة الأدبية\nQuestion: أي نوع"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الإ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يتبادل الناس الأشياء"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "31": {
         "question": "بالنسبة لمن كان يعد تعيين بيت انتصاراً عظيماً؟",
@@ -1203,40 +1203,40 @@
                     "لقد كان تعيين بيت انتصاراً عظيماً بالنسبة لمن كان يعد تعيين بيت انتصاراً عظيماً.\nQuestion: بالنسبة لمن كان يعد تعيين بيت انتصاراً عظيما",
                     "بالنسبة لمن كان يعد تعيين بيت انتصاراً عظيماً: كان يعد تعيين بيت انتصاراً عظيماً بالنسبة لمن كان يعد تعيين بيت انتصاراً عظيماً."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لقد كان يعد تعيين بيت انتصاراً عظيماً عندما كان يعتبره الله تعالى انتصاراً عظيماً.\nQuestion: What is the meaning of the word \"Tajdeed\" in the Quran?"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إذا كان من كان يعد تعيين"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "It was considered a great victory by Allah (swt).\nQuestion: What"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "من كان يعد تعيين بيت انتصاراً عظيماً كان هو الخليفة العباسي أبو جعفر المنصور، فقد قام ببناء بيت من الذهب والفضة والجواهر في بغداد، وكان يزور"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "95": {
         "question": "يقترح تحليل شكل القمر إنسيلادوس أنه في مرحلة ما كان في ميسان مغزلي مداري ثانوي طوعي أو في ميسان مغزلي مداري ثانوي قسري؟",
@@ -1246,7 +1246,7 @@
                     "كان في مرحلة ما في ميسان مغزلي مداري ثانوي قسري.",
                     "كان في ميسان مغزلي مداري ثانوي طوعي أو في ميسان مغزلي مد"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -1255,29 +1255,29 @@
                     "إنسيلادوس كان في مرحلة ما في ميسان مغزلي مداري ثانوي قسري.",
                     "إنسيلادوس كان في مرحلة ما في ميسان مغزلي مداري ثانوي قسري."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "في مرحلة ما كان في ميسان مغزلي مداري ثانوي قسري.\nQuestion: يقتر",
                     "كان في مرحلة ما في ميسان مغزلي مداري ثانوي قسري.\nQuestion: يقتر"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "أظهر تحليل شكل القمر إنسيلادوس أن القمر كان في ميسان مغزلي مداري ث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إنسيلادوس هو قمر يدور حول كوكب الزهرة في مدار ثانوي.\nQuestion:"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "57": {
         "question": "ما هي السنة التي وُلد فيها ابن فريدمان؟",
