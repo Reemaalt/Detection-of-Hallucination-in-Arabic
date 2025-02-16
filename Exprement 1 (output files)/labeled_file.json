@@ -2508,19 +2508,19 @@
                 "answers": [
                     "يشتهر بتقديم الكثير من الخدمات للعملاء، كما يشتهر بتقديم خدمة العملاء المميزة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "I am a teacher. I teach English to students."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "هو مؤلف لكتاب \"The Road Not"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -2528,34 +2528,34 @@
                     "He is known for his work on the subject of the subject.",
                     "He is famous for his work in the field of medicine."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يشتهر بتصميمه الملابس التي تجمع"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إنه يشتهر بالموضوعات الاجتماعية والسياسية."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "يشتهر بروبرت كينج بموضوعات العمل التالية:\n1. الديمقراطية.\n2. العدالة الاجتماعية.\n3. التغيير.\n4. الحرية.\n5. الحقوق المدنية.\n6. العدالة.\n7."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "من أشهر الموضوعات التي يشتهر بها هي الموضوعات التي تتعلق بالطب والطباعة والنقل والاتصالات."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "131": {
         "question": "أي كلمة تصف كيف تولدت هذه المجموعات؟",
@@ -2566,47 +2566,47 @@
                     "تطوّرت",
                     "تُكوّن"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تط"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تك"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1.  أُنشئت\n2.  تُنشأ\n3.  تُنشأ\n4.  تُنشؤ\n5.  تُنشأ\n6.  تُنشؤ\n7.  تُنشؤ\n8.  ت"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "مجموعة",
                     "مجموعة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أطعمة\nQuestion: أي كلمة تصف كيف تنتج هذه"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تكاثر"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "12": {
         "question": "في أي مدينة يقع مقر الجمعية؟",
@@ -2615,59 +2615,59 @@
                 "answers": [
                     "عن طريق"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اللغة العربية.\nQuestion:",
                     "اللغة العربية.\nQuestion:"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Cairo.\nQuestion: What"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "اللغة الإنجليزية.\nQuestion: ما هي اللغة التي يتحدث بها سكان مدينة ك"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The name of the association’s president is"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يقع مقر الجمعية في مدينة نيويورك.\nQuestion"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "93": {
         "question": "ما الاسم الأخير المذكور وهو أيضًا اسم النهر الموجود في نيويورك؟",
@@ -2680,7 +2680,7 @@
                     "Hudson",
                     "Hudson"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -2689,16 +2689,16 @@
                     "Hudson River",
                     "Hudson River"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "Hudson River.\nQuestion: ما اسم النهر الذي"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "122": {
         "question": "من كان مرشح ألمانيا في أواخر القرن السادس عشر؟",
@@ -2708,58 +2708,58 @@
                     "Friedrich II of Prussia was the German candidate in the late",
                     "In the late sixteenth century, the Austrian Rudolf II was the German candidate."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "فريدريك الثاني ملك البروسيا.\nQuestion: من كان مرشح ألمانيا في أواخر القرن السادس عشر؟\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان مرشح ألمانيا في أواخر القرن السادس عشر هو فرديناند الثاني."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إليزابيث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "In the"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "فريدر"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كريستوف كولومبوس"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في أواخر القرن السادس عشر كان مارتن لوثر مرشح ألمان"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "(6) فريدريك الس"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "4": {
         "question": "أين تتحدث اللغة البولينيزية؟",
@@ -2772,30 +2772,30 @@
                     "في جزر بولينيزيا",
                     "تتحدث في جزر بولينيزيا."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "تتحدث اللغة الب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تتحدث اللغة البولينيزية في جزر بولينيزيا.\nThe Polynesian language is spoken in Polynesia.",
                     "تتحدث اللغة البولينيزية في جزر بولينيزيا."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "في جزر بولينيزيا في المحيط الهادئ.",
                     "في جزر بولينيزيا في المحيط الهادئ."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "50": {
         "question": "ما هي الرياضة المشهورة في باكستان؟",
@@ -2806,42 +2806,42 @@
                     "الكريكيت",
                     "كريكيت."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "هوكى الحقل.",
                     "هوكى.\nQuestion: ما هي الرياضة المشهورة في باكستان؟ هوكى.\nQuestion: ما هو أشهر رياضة في باكستان؟ هوكى.\nQuestion: ما هو أشهر رياضة في باكستان هوكى.\nQuestion: ما هو أشهر"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "الكريكيت.\nQuestion: ما هي الرياضة المشهورة في باكستان؟"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "هوكى"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "كرة القدم.\nAnswer",
                     "كرة القدم."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Cricket"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "61": {
         "question": "من ادعى أن فرضية الدخل هي أفضل عمل لفريدمان؟",
@@ -2850,25 +2850,25 @@
                 "answers": [
                     "روبرت سولو كان يعتقد أن فرضية الدخل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Milton Friedman claimed"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "كان أ. جوزيف شومبيتر أول من قدم فرضية الدخل. كانت فكرة شومبيتر أن النمو الاقتصادي يعتمد على النمو السكاني. في حين أن فريدمان يرى أن النمو الاقتصادي يعتمد على النمو السكان"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "ميلتون فريدمان هو من ادعى أن"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -2876,28 +2876,28 @@
                     "من ادعى أن فرضية الدخل هي أفضل عمل لفريدمان هو ميلتون فريدمان.",
                     "من ادعى أن فرضية الدخل هي أفضل عمل لفريدمان هو د. ميلتون فريدمان."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "The General Theory of Employment, Interest and Money.\nQuestion: What was the name of the book in which Keynes first presented his theory of aggregate demand"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Friedman said that his own work"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "من ادعى أن فرضية الدخل هي أفضل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "90": {
         "question": " فيما تسمى الأنياب المتواجدة في الفك العلوي؟\\n",
@@ -2908,52 +2908,52 @@
                     "الأنياب المتواجدة في الفك العلوي تسمى الأنياب السنيه.",
                     "الأنياب المتواجدة في الفك العلوي تسمى الأسنان العليا."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "الأنياب المخروطية."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "الأنياب المتواجدة في الفك العلوي تسمى الأنياب السفلية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأنياب المتواجدة في الفك العلوي تسمى الأنياب المخروطية (conical teeth)."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "الأنياب المتواجدة في الفك العلوي تسمى الأنياب القاطعة."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "الأسنان العليا"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأسنان"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "32 أسنان.\nQuestion:  ما هي الأغلبية العددية من الأسنان"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "161": {
         "question": "ما الذي يبحثون عنه في المحجر؟",
@@ -2962,14 +2962,14 @@
                 "answers": [
                     "يبحثون عن المعادن.\nQuestion: ما الذي يبحثون عنه في"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "يبحثون",
                     "يبحثون"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -2978,23 +2978,23 @@
                     "يبحثون عن الذهب.\nQuestion: ما الذي يبحثون عنه في",
                     "يبحثون عن الذهب.\nQuestion: ما الذي يبحثون عنه في"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "They",
                     "They"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يبحثون في المحجر عن الحجر الجيري.\nQuestion"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "149": {
         "question": "ما هي مهمته؟",
@@ -3003,64 +3003,64 @@
                 "answers": [
                     "He is a"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "إخبار الناس بالحقيقة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "أستاذ الرياضيات."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "5. يهتم بالشؤ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ت"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لتحسين جودة الحياة.\nQuestion: ما هي مهمة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The aim of the meeting was to discuss the issue of the refugees.\nAnswer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يهدف إلى تحسين صحة الأطفال في العالم."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "هو المسؤول عن إدارة الأعمال اليومية للشركة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "33": {
         "question": "في أي عام كان النزول الفرنسي؟",
@@ -3069,13 +3069,13 @@
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1883"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3085,28 +3085,28 @@
                     "في عام 1830 ميلادية.",
                     "في عام 1830."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام 1822"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "68": {
         "question": "مالذى يجعل القطط تهسهس ؟",
@@ -3115,13 +3115,13 @@
                 "answers": [
                     "عندما تمد رأس"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "لانها تريد ان تبقى على اتصال دائم مع احد افراد عائلتها."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -3129,35 +3129,35 @@
                     "The flowers.\nQuestion",
                     "Cat.\nQuestion: ماهو"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Because it is a cat.\nQuestion: ما الذي يجعل القطط تهسهس"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "القطط تهسهس لانها تريد ان تطلب الطعام."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "Because it wants to express its feeling of",
                     "Because the cat will meow.\nQuestion: لما"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "اللحوم والأسماك"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "136": {
         "question": "ماهو الذي يُعد إنجازًا رائدًا في نظرية الزمر المعاصرة؟",
@@ -3170,35 +3170,35 @@
                     "هي نظرية الزمر التي تُحدد الزمر المحددة على أنها زمرة معينة.\nQuestion: ماهي نظرية الز",
                     "The classification of finite simple groups.\nQuestion: ما هو ما يُعد إنجازًا ر"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "The solution of the",
                     "The Feit-Thompson theorem, which states that every group of odd order is solvable, is considered a landmark in modern group theory.\nThe Feit–Thompson theorem, also known as the odd order theorem, states that every finite group of odd order is"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The classification of finite simple groups."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "The Jordan-Hölder Theorem."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The Jordan-Hölder theorem is a fundamental result in group theory, which describes the structure of finite extensions of finite simple groups. The theorem was proved by Camille Jordan and Otto Hölder in the 1880s. The theorem states that any two composition series"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "98": {
         "question": "خلال فترة حكم تشارلز، ما هي مجموعة القوانين التي تم إصدارها بواسطة البرلمان؟",
@@ -3207,14 +3207,14 @@
                 "answers": [
                     "تشارلز كان يعتقد أن البرلمان يجب أن يكون قادرًا على إصدار القوانين في كل من الأمور السياسية والاجتماعية والاقتصادية. في عام 1628، أصدر البرلمان مجموعة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The laws of Charles I (the parliament).\nQuestion: What was the name of",
                     "The Laws of Charles I.\nQuestion: What was the name of the group of laws that"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3222,34 +3222,34 @@
                     "قوانين تشارلز الأول",
                     "قوانين تشارلز الأول"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "قانون الملكية، قانون الإصلاح، قانون الإصلاح الزراعي، قانون التجنيد، قانون التمثيل، قانون التجنيد، قانون الإصلاح الزراعي، قانون الإصلاح الزراعي، قانون الإص"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "قوانين تشارلز الأول (1642-1649)"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Charles I Laws\nQuestion: What is the name of the law that was issued by the parliament in 1641?"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "28": {
         "question": "من التي تزوجت الأمير هاري؟",
@@ -3258,7 +3258,7 @@
                 "answers": [
                     "مارغريت روز فليتشر"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3267,35 +3267,35 @@
                     "Meghan Markle",
                     "Meghan Markle"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "الأمير تش",
                     "الأمير و"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Prince Andrew.\nQuestion: من الذي تزوج الأميرة ديانا؟ Answer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الأميرة ميكايلا هي ابنة الأمير تشارلز والملكة ديانا.\nQuestion: من هي الأم"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "عام 1982."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "56": {
         "question": "متى ولد أنطونيو سانت إيليا؟",
@@ -3304,59 +3304,59 @@
                 "answers": [
                     "ولد أنطونيو سانت إيليا في 4 فبراير عام 1866."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ولد أنطونيو سانت إيليا في 12 أيار 1918."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "",
                     "ولد أنطونيو سانت إيليا في 23 مارس 1908 في قرية شافير في لبنان.\nAntonio Sahtila was born on March 23, 1908 in Chafar village in Lebanon.\nAntonio Sahtila was born in Chafar village"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ولد أنطونيو سانت إيليا في 18 فبراير 1921.\nQuestion: متى ولد أنطونيو"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Antonio de la M"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Antonio de Padua Samora"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Born on February 28, 1888."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ولد أنطونيو سانت إيليا في 18 تشرين الأول (أكتوبر) 1888."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Antonio Sa'adé was"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "128": {
         "question": "ما هو هدف هذا البحث؟",
@@ -3367,7 +3367,7 @@
                     "The hypothesis tested in this study was that the more the number of hours of sleep the students get, the higher the academic performance.\nQuestion: ما هي",
                     "The researcher conducted a number of studies in this research, including a study on the relationship between the media and peace, a study on the relationship between"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3375,34 +3375,34 @@
                     "The importance of this study is to find out the effect of the use of the virtual reality in teaching the English language.\nQuestion: ما هي الفرضية الرئيسية في",
                     "To determine the effectiveness of a new drug in treating cancer.\nQuestion: ما هي المادة التي تم استخدامها في هذا البحث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The purpose of this study is to determine the effect of the use of the \"S\" and \"F\" words in the first year of high school on students"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "This research was written in English.\nأجب على السؤال التالي بجملة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The importance of this study lies in the fact that it is the first study of its kind in our country.\nQuestion: ما هي أهمية هذا البحث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "هدف هذا البحث هو تقييم فعالية"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "73": {
         "question": "ما هو اسم الألبوم الأول الذي أصدره ديف ليبارد؟",
@@ -3412,7 +3412,7 @@
                     "\"On Through the Night\"\nQuestion: What was",
                     "What is the name of the first album that Def"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
@@ -3421,29 +3421,29 @@
                     "\"On Through the Night\"",
                     "\"On Through the Night\""
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "High 'N' Dry",
                     "High and Dry"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "“ديف ليبارد” هو اسم ألب"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1977"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "9": {
         "question": "كانت الأسود في اسطبل في برج لندن ليتمكن الناس من مشاهدتها مقابل المال أو ماذا كان طعام الأسود؟",
@@ -3452,13 +3452,13 @@
                 "answers": [
                     "The British Empire lasted for 300 years."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت الأسود في اسطبل في برج لندن ليتمكن الناس من مشاهدتها مقابل المال أو ماذا كان طعام الأسود؟"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3467,29 +3467,29 @@
                     "كانوا في اسطبل في برج لندن ليتمكن الناس من مشاهدتها مقابل المال.\nThe lions were in the Tower of London stable so that people could see them for money.\nThe lions",
                     "كانت الأسود في اسطبل في برج لندن ليتمكن الناس من مشاهدتها مقابل المال.\nThe bears in the Tower of London were kept there for people to see for money.\nThe bears"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The lions were kept in the Tower of London so people could pay to see them.",
                     "The lions were kept in a tower in London so people could pay to see them."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The food for the lions in the"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كان طعام الأسود في اسطبل في برج لندن هي الأجسام الميتة التي يقدمها الناس مقابل المال.\nThe bears in the Tower of London were fed the dead bodies that"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "121": {
         "question": "ما هي شركة التسجيلات التي قام شون بيتر راول ميندز بالتوقيع معها في عام 2014؟",
@@ -3505,22 +3505,22 @@
                     "",
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Warner Records.\nQuestion: What is the name of the record label that"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام 2014، وقع شون بيتر راول ميندز عقدًا مع شركة تسجيلات في المملكة المتحدة."
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "101": {
         "question": "في أي معبد بدأ ريكيو دوزن تدريباته في كويوتو؟",
@@ -3529,64 +3529,64 @@
                 "answers": [
                     "في معبد كوتو-جين."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Shogun temple.\nQuestion: In which temple did Duson practice Rikyu's"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في معبد تينشوين."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في معبد إيشينو-جي"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "في معبد كاكوآن."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في معبد كانجياكو-جي"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "At Daitokuji Temple.\nQuestion: In what temple did"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "في معبد يوشين-جي.\nQuestion: في أي معبد بدأ ر"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في معبد شينغونجي."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "In Sh"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "108": {
         "question": "بعض تنبؤات نظرية اينشتاين للنسبية العامة لا تتوافق مع أي نوع من الفيزياء؟",
@@ -3595,59 +3595,59 @@
                 "answers": [
                     "نظرية النسبية العامة لا توافق مع نظرية الالكترونات والفوت"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "بعض تنبؤات نظرية النسبية العامة لا تتوافق مع أي نوع من الفيزياء."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "نظرية النسبية العامة تنبؤت بأن الكون يتمدد بسرعة أكبر بكثير مما كان يعتقد سابقا.\nQuestion: How is the sun's gravitational force compared with the earth's gravitational force?"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "النسبية العامة هي نظرية النسبية التي تقوم على فكرة أن جميع الأشياء في الكون تتحرك بسرعة واحدة في جميع الاتجاهات.",
                     "نظرية النسبية العامة تتنبأ بأن الكون يتمدد بسر"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "تنبؤات نظرية النسبية العامة للفيزياء لا تتوافق مع أي نوع من الفيزياء.\nQuestion: Some of Einstein's predictions for General Relativity do not match with any type of physics"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "نظرية النسبية العامة تنبؤ بأن النجوم التي تمتص ضوءاً كثيفاً ستتمدد وتتمدد وستتمدد."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "نظرية النسبية العامة تتناول موضوع الجاذبية، والجاذبية هي قوة تسبب المادة في الجاذبية في جذب بعضها البعض. نظرية النسبية العامة تنبئ"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "العوامل البيئية والجينية"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "أهمية نظرية النسبية العامة لإنشتاين تظهر في تنبؤاتها الصحيحة للفيزياء. على سبيل المثال، تنبؤت النسبية العامة أن المادة"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "41": {
         "question": "ما هي جنسية أماندا ميشيل؟",
@@ -3656,7 +3656,7 @@
                 "answers": [
                     "الإنجليزية.\nQuestion: ما هي اللغة التي يتحدث"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3665,40 +3665,40 @@
                     "أماندا ميشيل أمريكية.",
                     "أماندا ميشيل أمريكية."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "أماندا ميشيل"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "His name is John.\nQuestion: ما هو اسم جار"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "جيف بيزوس هو المدير التنفيذي لشركة أمازون.\nQuestion: ما هي لغة جيمس جيمس جيمس ج"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "She is a singer.\nQuestion: ما هي المهنة التي يشتغل بها جاي لينو"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "I'm not sure about the nationality of Amanda Michelle."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "65": {
         "question": "على ماذا اشتملت سُلطة الملك إمبريوم؟",
@@ -3708,13 +3708,13 @@
                     "سُلطة الملك إمبريوم اشتمل",
                     "سُلطة الملك إمبريوم اشتملت على السلطة في الخارج والسلطة في الداخل والسلطة في الداخل والسلطة في الداخل والسلطة في الداخل والسلطة في الداخل والسلطة في الداخل والسلطة في الداخ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "سُلطة الملك إمبريوم شملت جميع السُلطات والحقوق التي يُمنحها المُلك لشخصه، كما كان يُمنحها لشخصه لشخص آخر، ومنها السُلطات التالية: إ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
@@ -3722,29 +3722,29 @@
                     "على سُلطة الملك الإمبريوم اشتملت سلطة الملكية، و سلطة السلطة التنفيذية، و سلطة السلطة التشريعية، و سلطة السلطة القضائية، و سلطة السلطة العسكرية",
                     "سُلطة الملك إمبريوم كانت تشتمل على السلطة العليا في جميع المجالات، من سلطة العدالة إلى سلطة الحرب إلى سلطة المال، فكانت تملك السلطة العليا في جميع المجالات."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "على السُلطة العليا في الإمبراطورية الرومانية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "كانت سُلطة الملك إمبريوم تتألف من سلطة تنفيذية و سلطة تشريعية و سلطة قضائية.",
                     "سُلطة الملك إمبريوم اشتملت على السُلطة القضائية والتنفيذية والتشريعية."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "السُلطة الملكية الإمبريومية (ال"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "100": {
         "question": "أين يقع مالفيك؟",
@@ -3753,64 +3753,64 @@
                 "answers": [
                     "20 هدف.\nQuestion:"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "مالفيك في مدينة سان فرانسيسكو."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في أستراليا.\nQuestion: أين يقع مالفيك؟ Answer"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "1- مالفيك هو جزيرة في بحر المحيط الهندي.\n2- مالفيك هو جزيرة في بحر المحيط الهندي.\n3- مالفيك هو جزيرة في بحر المحيط الهندي.\n4- مالفيك هو جزيرة في بحر المحيط اله"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يقع مالفيك في أ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في جنوب أوروبا."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "يقع مالفيك في الجزء الشمالي من أوروبا، و هو يقع في منطقة ما بين فرنسا والسويد."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "هو في الولايات المتحدة الأمريكية"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في فرنسا."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "الإسبانية، الإنجليزية، الغ"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "119": {
         "question": "متى بُنيت ثكنات Selimiye للمرة الأولى؟",
@@ -3819,64 +3819,64 @@
                 "answers": [
                     "Doha"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Selimiye Barracks were built for the first time in 1846."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "ثكنات Selimiye بنيت للمرة الأولى في 1700."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "Selimiye Barracks were"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام 1528."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "The name of the ship which sank in the Bosporus on"
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام 1838م."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام 1846."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في 1565 م."
                 ],
-                "label": ""
+                "label": "hallucinated"
             },
             {
                 "answers": [
                     "في عام 1827"
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "hallucinated"
     },
     "63": {
         "question": "كم تبعد  الجثة مترين (7 أقدام) تقريباً عنال حفرة جدار المقصورة؟",
