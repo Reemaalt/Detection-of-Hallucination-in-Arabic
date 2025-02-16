@@ -3891,23 +3891,23 @@
                     "7 أقدام تقريباً",
                     "7 أقدام تقريباً"
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     "مترين (7 أقدام) تقريباً من الجثة إلى الحفرة",
                     "7 أقدام تقريباً مترين من الجثة إلى الحفرة."
                 ],
-                "label": ""
+                "label": "non-hallucinated"
             },
             {
                 "answers": [
                     ""
                 ],
-                "label": ""
+                "label": "hallucinated"
             }
         ],
-        "question_label": ""
+        "question_label": "non-hallucinated"
     },
     "75": {
         "question": "ما المنتج الشائع من البيرة و/أو النبيذ المعرض للهواء؟",
