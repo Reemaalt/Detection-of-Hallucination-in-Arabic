@@ -2,21 +2,31 @@
 
 This project aims to detect hallucinations ( nonfactcal answers) in Arabic Large Language Models (LLMs) using a Question-Answering dataset. The process involves generating answers, grouping similar answers, and testing methods to identify unreliable responses.
 
-## Project Structure
+## repository structure:
 
-1- Dataset:
-- The dataset is stored in the dataset/ folder.
-This is where we load and explore the data.
+### Dataset folder:
 
-2- Models:
-- Each model (e.g., Llama) has its own folder.
-- Inside, you’ll find:
-  - A notebook (generation_code.ipynb) to generate answers.
-  - Output files (output_file_model_dataset.JSON) containing the generated answers.
+code to load, explore, clean and label the data.
 
-3- Experiments:
-- Each experiment has its own folder (e.g., experiment1/).
-- This is where we save results and track progress.
+### Experiments folders:
+
+Each experiment has its own folder (e.g., experiment1/)
+This is where we save results (output files) and track progress.
+
+### the framework folder:
+
+this is where our main code is
+
+    - the llms generation code 
+    - the clustering code
+    - threshold code (experiment1)
+    - semantic entropy code 
+    - RougeL (labeling) code
+    - evaluation  code 
+
+### to delete folder:
+
+unnecessary files soon to be deleted , just kept them in case we need them.
 
 ## Steps
 
