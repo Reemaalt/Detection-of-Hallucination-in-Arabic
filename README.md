@@ -17,12 +17,12 @@ This is where we save results (output files) and track progress.
 
 this is where our main code is
 
-    - the llms generation code 
-    - the clustering code
-    - threshold code (experiment1)
-    - semantic entropy code 
-    - RougeL (labeling) code
-    - evaluation  code 
+- the llms generation code 
+- the clustering code
+- threshold code (experiment1)
+- semantic entropy code 
+- RougeL (labeling) code
+- evaluation  code 
 
 ### to delete folder:
 
