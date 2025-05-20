@@ -3,14 +3,14 @@
 This project aims to detect hallucinations ( nonfactcal answers) in Arabic Large Language Models (LLMs) using a Question-Answering dataset. The process involves generating answers, grouping similar answers, and testing methods to identify unreliable responses.
 
 ## repository structure:
-
+```
 Detection-of-Hallucination-in-Arabic/
 ├── Alloutput_files/           # Output files from experiments
 ├── Final-Experiment/          # Files related to the final experiment
 ├── data_set_code/             # Code for dataset exploring
 ├── our framework code/        # Implementation of our hallucination detection framework
 └── README.md                  # Project documentation
-
+```
 ## Features
 
 Arabic-specific hallucination detection
