@@ -4,29 +4,19 @@ This project aims to detect hallucinations ( nonfactcal answers) in Arabic Large
 
 ## repository structure:
 
-### Dataset folder:
+Detection-of-Hallucination-in-Arabic/
+├── Alloutput_files/           # Output files from experiments
+├── Final-Experiment/          # Files related to the final experiment
+├── data_set_code/             # Code for dataset exploring
+├── our framework code/        # Implementation of our hallucination detection framework
+└── README.md                  # Project documentation
 
-code to load, explore, clean and label the data.
+## Features
 
-### Experiments folders:
-
-Each experiment has its own folder (e.g., experiment1/)
-This is where we save results (output files) and track progress.
-
-### the framework folder:
-
-this is where our main code is
-
-- the llms generation code 
-- the clustering code
-- threshold code (experiment1)
-- semantic entropy code 
-- RougeL (labeling) code
-- evaluation  code 
-
-### to delete folder:
-
-unnecessary files soon to be deleted , just kept them in case we need them.
+Arabic-specific hallucination detection
+Support for multiple LLM 
+Quantitative metrics for hallucination assessment
+Detailed analysis reports
 
 ## Steps
 
@@ -38,7 +28,7 @@ We also will experiment with various entailment models to identify the most suit
 
 ### 3 Baseline and semantic entropy methods experimentation
 
-•	**Baseline method:** After the generation and clustering are achieved,  this baseline hallucination detection mechanism will introduce a number of cluster count thresholds, when the number of clusters exceeded the predefined threshold, the model was classified as uncertain, indicating potential hallucinations. We will be experimenting with different thresholds to decide on a suitable one that achieves the best results. 
+•	**Clustering beasd method ** After the generation and clustering are achieved,  this baseline hallucination detection mechanism will introduce a number of cluster count thresholds, when the number of clusters exceeded the predefined threshold, the model was classified as uncertain, indicating potential hallucinations. We will be experimenting with different thresholds to decide on a suitable one that achieves the best results. 
 
 •	**Semantic entropy method:** After clustering generated responses into semantically distinct groups, we will quantify the distribution of meanings to assess model uncertainty. We will employ Monte Carlo integration to estimate semantic entropy. This approach will sample meaning clusters from the model's output and use them to approximate the true entropy of the meaning distribution. Providing a probabilistic approach to detecting semantic inconsistencies and hallucinations in Arabic LLMs, moving beyond simple threshold-based assessments.
 
